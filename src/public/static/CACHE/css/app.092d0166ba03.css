@@ -1,0 +1,31 @@
+::-webkit-input-placeholder {
+  color: gray;
+}
+
+::-moz-placeholder {
+  color: gray;
+}
+
+:-ms-input-placeholder {
+  color: gray;
+}
+
+::-ms-input-placeholder {
+  color: gray;
+}
+
+::placeholder {
+  color: gray;
+}
+
+.image {
+  background-image: url(/static/scss/image@1x.png);
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
+  .image {
+    background-image: url(/static/scss/image@2x.png);
+  }
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRtcF9sNGRoNXB5LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFdBQVc7QUFDYjs7QUFGQTtFQUNFLFdBQVc7QUFDYjs7QUFGQTtFQUNFLFdBQVc7QUFDYjs7QUFGQTtFQUNFLFdBQVc7QUFDYjs7QUFGQTtFQUNFLFdBQVc7QUFDYjs7QUFFQTtFQUNFLG1DQUFtQztBQUNyQzs7QUFFQTtFQUNFO0lBQ0UsbUNBQW1DO0VBQ3JDO0FBQ0YiLCJmaWxlIjoidG1wX2w0ZGg1cHkuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiOjpwbGFjZWhvbGRlciB7XG4gIGNvbG9yOiBncmF5O1xufVxuXG4uaW1hZ2Uge1xuICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VAMXgucG5nKTtcbn1cblxuQG1lZGlhIChtaW4tcmVzb2x1dGlvbjogMmRwcHgpIHtcbiAgLmltYWdlIHtcbiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VAMngucG5nKTtcbiAgfVxufVxuIl19 */

@@ -1,0 +1,22 @@
+.api-content {
+  margin-left: auto;
+
+  & p {
+    line-height: 1.6 !important;
+  }
+
+  & .kBWwoV {
+    color: #fff !important;
+  }
+
+  & .api-info {
+    margin-top: -40px !important;
+    padding-top: 40px !important;
+  }
+
+  & h1,
+  & h2,
+  & h3 {
+    font-weight: bold;
+  }
+}

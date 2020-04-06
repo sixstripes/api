@@ -1,0 +1,15 @@
+.menu-content {
+  background-color: #fff !important;
+}
+
+.menu-content .scrollbar-container li {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.menu-content .scrollbar-container li > label > svg {
+  display: none;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRtcDZzeWxtN241LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGlDQUFpQztBQUNuQzs7QUFFQTtFQUNFLGlCQUFpQjtFQUNqQixlQUFlO0VBQ2YsaUJBQWlCO0FBQ25COztBQUVBO0VBQ0UsYUFBYTtBQUNmIiwiZmlsZSI6InRtcDZzeWxtN241LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5tZW51LWNvbnRlbnQge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmICFpbXBvcnRhbnQ7XG59XG5cbi5tZW51LWNvbnRlbnQgLnNjcm9sbGJhci1jb250YWluZXIgbGkge1xuICBmb250LXdlaWdodDogYm9sZDtcbiAgZm9udC1zaXplOiAxOHB4O1xuICBsaW5lLWhlaWdodDogMjhweDtcbn1cblxuLm1lbnUtY29udGVudCAuc2Nyb2xsYmFyLWNvbnRhaW5lciBsaSA+IGxhYmVsID4gc3ZnIHtcbiAgZGlzcGxheTogbm9uZTtcbn1cbiJdfQ== */

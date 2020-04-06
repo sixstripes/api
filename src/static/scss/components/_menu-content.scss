@@ -1,0 +1,22 @@
+.menu-content {
+  background-color: #fff !important;
+
+  & .scrollbar-container li {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  & .scrollbar-container li > label > svg {
+    display: none;
+  }
+
+  & .sc-hXRMBi.nGwee {
+    display: none;
+  }
+
+  & .sc-esOvli.kKQhLA {
+    display: flex;
+    align-items: center;
+  }
+}
