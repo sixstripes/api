@@ -1,5 +1,6 @@
 .redoc-wrap {
-  & .sc-iuJeZd.fLUKgj {
+  & .sc-iuJeZd.fLUKgj,
+  & .dtUibw {
     background: $dark-gray !important;
   }
 
@@ -25,5 +26,9 @@
   .jCgylq .token.builtin + a:visited,
   .jCgylq .token.inserted + a:visited {
     color: #fdd835 !important;
+  }
+
+  & * {
+    font-family: "Overpass", sans-serif !important;
   }
 }
